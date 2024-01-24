@@ -32,7 +32,7 @@ Template parameters specified on the command line will overwrite the defaults in
 # Example Calls
 
 ## Azure CLI
-Clone or download the Github repo from https://github.com/vsuopys/SecureSynapse.
+Clone or download the Github repo from https://github.com/Azure/SynapseAnalyticsSecured.
 
 On your local machine, switch directory to SecureSynapseBicep.
 
